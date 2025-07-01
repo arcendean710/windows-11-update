@@ -8,7 +8,7 @@ While Windows usually handles updates automatically, there are times when you
 may need to **update Windows 11 manually** — whether it’s because your system 
 is stuck, missing a feature, or simply lagging behind. 🔄
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
